@@ -26,6 +26,7 @@ h2 {
   font-weight: bold;
   color: #00adb5;
   padding-bottom: 20px;
+  font-size: 2rem;
 }
 
 h3 {
@@ -51,18 +52,18 @@ a:hover{
 .who {
   color: #00adb5;
   font-family: monospace;
-  font-size: 200%;
+  font-size: 1.6rem;
   font-weight: lighter;
 }
 
 .intro {
-  width: 30%;
+  width: 45%;
   margin: auto;
 }
 
 .profile-img{
-  width: 10%;
-  height: 10%;
+  width: 20%;
+  height: 20%;
 }
 
 .top-container {
@@ -81,8 +82,8 @@ a:hover{
 }
 
 .helloImg {
-  height: 120px;
-  width: 120px;
+  height: 190px;
+  width: 190px;
   position: absolute;
   left: 20px;
   top: 50px;
@@ -111,30 +112,30 @@ a:hover{
 
 
 .mobile {
-  width: 15%;
-  height: 15%;
+  width: 20%;
+  height: 20%;
   float: left;
-  margin-right: 30px;
+  margin-right: 2rem;
 }
 
 .web {
-  width: 15%;
-  height: 15%;
+  width: 20%;
+  height: 20%;
   float: right;
-  margin-left: 30px;
+  margin-left: 2rem;
 }
 
 .copyright{
   font-family: 'Montserrat', sans-serif;
   color: #3a4750;
-  font-size: 12px;
+  font-size: 1rem;
   padding: 20px 0 10px;
 }
 
 .info {
   font-family: 'Montserrat', sans-serif;
   color: #3a4750;
-  font-size: 8px;
+  font-size: 0.5rem;
 }
 
 .butn {
@@ -149,7 +150,7 @@ a:hover{
   border-radius: 8px;
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 1.5rem;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
